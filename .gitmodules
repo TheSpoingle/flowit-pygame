@@ -1,0 +1,3 @@
+[submodule "flowit-python"]
+	path = flowit
+	url = https://github.com/TheSpoingle/flowit-python

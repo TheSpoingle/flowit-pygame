@@ -1,0 +1,1 @@
+These are the XML files from the original flowit game. These aren't in use for this Python clone since they have been converted to JSON for simplicity purposes.

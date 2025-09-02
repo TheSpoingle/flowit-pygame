@@ -2,7 +2,8 @@ import pygame
 
 from .. import assets
 
-screen_scale: float = 2.0
+# Screen scale value for use on higher resolution/dpi monitors
+screen_scale: float = 1.0
 
 
 class Button():
